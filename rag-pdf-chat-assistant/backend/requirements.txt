@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+faiss-cpu
+pypdf
+python-multipart
+azure-ai-inference
+langchain>=0.1.0
+langchain-community>=0.0.8

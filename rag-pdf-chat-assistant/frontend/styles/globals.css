@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional global style improvements */
+
+html, body {
+  font-family: 'Inter', sans-serif;
+  scroll-behavior: smooth;
+  background-color: #f9fafb;
+}
+
+/* Customize file input button (already styled inline but can be improved here) */
+/* No changes needed if you like the inline styles */
