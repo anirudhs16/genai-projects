@@ -1,0 +1,1 @@
+# External service integrations (OpenAI, embeddings, search) 

@@ -1,0 +1,24 @@
+# Core FastAPI stack - Python 3.12 compatible versions
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.0.0
+starlette>=0.27.0
+
+# Environment and utilities
+python-dotenv>=1.0.0
+python-multipart>=0.0.6
+
+# GitHub AI integration via Azure AI (beta version)
+azure-ai-inference==1.0.0b9
+azure-core>=1.29.0
+
+# HTTP client
+httpx>=0.24.0
+
+# Supabase
+supabase>=2.0.0
+
+# Authentication
+python-jose[cryptography]>=3.3.0
+passlib[bcrypt]>=1.7.0 
+email-validator>=2.0.0 
